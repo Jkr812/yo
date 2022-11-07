@@ -1,1 +1,7 @@
-# yo
+name= ("Jeiker Muñoz")
+age= ("20 años")
+CI= str("28408954")
+print("Hola mi nombre es " + name)
+print ("y mi edad es " + age)
+print("mi cedula de identidad es " + CI)
+print("actualmente no tengo ningun conocimiento sobre la programacion o un lenguaje de programacion en especifico pero se algo de python gracias a sololearn que me ayuda con sus mini cursos y dinamicas")
